@@ -8,6 +8,14 @@ O principal produto do trabalho é um **WebSIG interativo** que permite a visual
 
 As análises foram desenvolvidas a partir de dados referentes aos focos de descarte irregular de resíduos sólidos coletados pela **Secretaria Municipal de Serviços Urbanos (SMSU)** nos anos de **2020 e 2025**, no município de **Rio Grande (RS)**.
 
+## 🌍 Acesso ao WebSIG
+
+O WebSIG interativo desenvolvido neste trabalho está disponível em ambiente web e pode ser acessado por meio do link abaixo:
+
+🔗 https://jenni28rr.github.io/websig-depositos-informais-rio-grande/
+
+O mapa permite a visualização dinâmica das análises espaciais realizadas, possibilitando a ativação e desativação de camadas temáticas conforme o interesse do usuário.
+
 ## Conteúdo do WebSIG
 
 O WebSIG reúne diferentes camadas temáticas e análises espaciais, possibilitando ao usuário compreender a distribuição e a influência dos depósitos informais de resíduos sólidos no espaço urbano. Entre os principais conteúdos disponíveis, destacam-se:
