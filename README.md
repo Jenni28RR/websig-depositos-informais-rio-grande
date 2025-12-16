@@ -34,3 +34,6 @@ O WebSIG reúne diferentes camadas temáticas e análises espaciais, possibilita
 
 Ao acessar o WebSIG, **todas as camadas estarão ativadas por padrão**, o que pode resultar em um aspecto visual carregado.  
 Para uma melhor interpretação das informações, recomenda-se **desativar as camadas não desejadas** e manter ativas apenas aquelas relevantes para a análise pretendida.
+
+Além disso, os pontos de descarte do WebSIG possuem **registros fotográficos obtidos a partir do Google Street View**. Essas imagens estão disponíveis **exclusivamente na camada intitulada “Focos de lixo geral”**, a qual contém o **banco de dados completo** com as informações coletadas durante a pesquisa.
+
